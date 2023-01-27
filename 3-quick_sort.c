@@ -1,7 +1,7 @@
 #include "sort.h"
 
 /**
-* partition - Lomutu partition scheme for quicksort algorithm
+* partition - Lomutu partition scheme for quicksort algorithm method
 * @a: Array to sort
 * @l: lowest index of array
 * @h: highest index of array
@@ -63,7 +63,7 @@ void qs(int *a, int l, int h)
 
 
 /**
-* quick_sort - sorts array using quicksort algorithm
+* quick_sort - sorts array using quicksort algorithm method
 * @array: Array to sort
 * @size: Size of array to sort
 */
