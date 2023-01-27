@@ -20,7 +20,7 @@ void swap_values(int **array, ssize_t i1, ssize_t i2)
 }
 
 /**
- * bubble_sort - sorts an array of integers using bubble sort
+ * bubble_sort - sorts an array of integers using bubble sort method
  *
  * @array: the array of integers
  * @size: the size of the array
